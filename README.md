@@ -41,6 +41,34 @@
   
   </br></br>
 
+<h2> / experience / </h2>
+
+💻 **Frontend Developer** at [RemindMe-Bot](https://www.remindme-bot.com/)  
+
+🚀 Building interactive and responsive UIs with **React, Astro & TypeScript**.  
+🔧 Optimizing performance and fixing bugs in a **high-traffic Discord bot**.  
+
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZsaHo4dHhkZHE1dG94OHFkMHRjMWF0YW1vcnY3bzh5YnNmd2hubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ozf4qM5aX1qUqwtmFF/200.webp"/>
+<h2> / my media / </h2>
+
+<div align="center">
+  <h4>📌 Connect with me!</h4>  
+    <h4> my links</h4>
+    <a href="https://github.com/Navisper" target="_blank" >
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>  
+    <a href="mailto:julianrubianosantofimio@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a> 
+    <a href="https://www.linkedin.com/in/julian-rubiano-santofimio-779a8532a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a> 
+  
+  </br></br>
+</div>
+
+
+
   ------
 Credit: [zillastar](https://github.com/zillastar)
 
