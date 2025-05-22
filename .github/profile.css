@@ -1,0 +1,50 @@
+/* ANIMACIONES CYBERPUNK */
+@keyframes neon-pulse {
+  0% { box-shadow: 0 0 5px #0ff; }
+  50% { box-shadow: 0 0 20px #0ff, 0 0 30px #f0f; }
+  100% { box-shadow: 0 0 5px #0ff; }
+}
+
+@keyframes hologram-scan {
+  0% { background-position: 0 0; }
+  100% { background-position: 0 100vh; }
+}
+
+/* EFECTOS INTERACTIVOS */
+.neon-card {
+  transition: all 0.3s ease;
+  animation: neon-pulse 3s infinite;
+}
+
+.neon-card:hover {
+  transform: translateY(-5px) rotate(1deg);
+  filter: brightness(1.2);
+}
+
+.holo-grid {
+  background: 
+    linear-gradient(rgba(0, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+  animation: hologram-scan 10s linear infinite;
+}
+
+/* EFECTOS PARA IMÁGENES */
+.cyber-avatar {
+  clip-path: polygon(
+    50% 0%, 100% 25%, 
+    100% 75%, 50% 100%, 
+    0% 75%, 0% 25%
+  );
+  transition: all 0.5s;
+}
+
+.cyber-avatar:hover {
+  clip-path: polygon(
+    30% 0%, 70% 0%, 
+    100% 30%, 100% 70%, 
+    70% 100%, 30% 100%, 
+    0% 70%, 0% 30%
+  );
+  filter: drop-shadow(0 0 15px #f0f);
+}
