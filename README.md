@@ -1,9 +1,11 @@
+<p align="center"><img src="https://i.imgur.com/9BHUnxu.png"> </p>
 
+<a href="https://github.com/Navisper">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Navisper&show_icons=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&icon_color=00ffff&border_color=9400d3" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navisper&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&border_color=9400d3" />
+</a>
+ </br></br>
 
-
-
-
-<p align = center ><img src="https://i.imgur.com/9BHUnxu.png"> </p>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/Bgydd3a.jpeg"/>
 
@@ -39,7 +41,7 @@
   
   </br></br>
 
-------
+  ------
 Credit: [zillastar](https://github.com/zillastar)
 
 Last Edited on: 12/11/2022
