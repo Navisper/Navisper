@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/9BHUnxu.png"> </p>
 
 <a href="https://github.com/Navisper">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Navisper&theme=synthwave&show_icons=true&bg_color=1a1b27&title_color=00d8ff&text_color=ffffff&icon_color=f5d0fe&border_color=9d4edd" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navisper&theme=synthwave&layout=compact&bg_color=1a1b27&title_color=00d8ff&text_color=ffffff&border_color=9d4edd" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Navisper&theme=synthwave&show_icons=true&bg_color=1a1b27&title_color=00d8ff&text_color=ffffff&icon_color=f5d0fe&border_color=9d4edd" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navisper&theme=synthwave&layout=compact&bg_color=1a1b27&title_color=00d8ff&text_color=ffffff&border_color=9d4edd" />
 </a>
  </br></br>
 
