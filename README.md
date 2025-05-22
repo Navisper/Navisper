@@ -5,10 +5,6 @@
 
 <p align = center ><img src="https://i.imgur.com/9BHUnxu.png"> </p>
 
-
-
-<div>
-
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/Bgydd3a.jpeg"/>
 
 <h2> / about me /</h2>
@@ -41,13 +37,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   
-
-  
   </br></br>
-  
-
-  </div>
-  </div>
 
 ------
 Credit: [zillastar](https://github.com/zillastar)
